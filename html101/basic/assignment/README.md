@@ -11,3 +11,6 @@ Your assignment is to create a web page about your favorite musician/group.
 * Create an unordered-list of your favorite song from them
 * Have at least 1 inline CSS style, for example: add color to your header
 * Have at least 1 internal CSS style, for example: change the background color to their signature color
+
+## Example
+ ![Olivia Rodrigo](https://github.com/laiamanda/web-dev101/blob/main/html101/basic/assignment/basic_assignment_example.PNG)
