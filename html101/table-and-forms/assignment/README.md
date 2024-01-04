@@ -23,4 +23,5 @@ In this assignment, you will create a fake dating user creation form.
 4. Have checkbox input field of your choosing, for example: interests
 
 It might look something like this:
+
 ![example-of-my-dating-creation-form](https://github.com/laiamanda/web-dev101/blob/main/html101/table-and-forms/assignment/form.PNG)
