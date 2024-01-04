@@ -10,7 +10,7 @@ In this assignment, you will be creating a table with 5 rows and 2 columns that 
 5. Have a Header Tag and a Title Name
 
 It might look like this:
-
+![example-of-my-top-5-movies](https://github.com/laiamanda/web-dev101/blob/main/html101/table-and-forms/assignment/table.PNG)
 
 # Form Assignment
 
@@ -23,4 +23,4 @@ In this assignment, you will create a fake dating user creation form.
 4. Have checkbox input field of your choosing, for example: interests
 
 It might look something like this:
-
+![example-of-my-dating-creation-form](https://github.com/laiamanda/web-dev101/blob/main/html101/table-and-forms/assignment/form.PNG)
