@@ -1,0 +1,56 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    background-color: #3559E0;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 3% 5%;
+    margin-left: 50%;
+    width: 200px;
+}
+
+button:hover {
+    background-color: red;
+    opacity: .7;
+    transition-duration: 0.3s;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+
+table {
+    border: 1px solid #0f0f0f;
+    border-collapse: collapse;
+    box-shadow: 3px 5px #888;
+    text-align: left;
+    width: 30%;
+}
+
+tr {
+    border: 1px solid #0f0f0f;
+}
+
+td {
+    padding: 3% 5%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#company-name {
+    color: #3559E0;
+    margin: 0 auto;
+}
+
+#title {
+    margin: 0 auto;
+}

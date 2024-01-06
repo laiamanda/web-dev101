@@ -1,0 +1,35 @@
+body {
+    background-color: #313131;
+}
+
+p {
+    color: white;
+}
+
+#title {
+    color: #f0f0f0;
+    text-align: center;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.big_bold_green {
+    font-weight: bold;
+    font-size: 96px;
+    color: green;
+    /* border: 1px solid paleturquoise; */
+}
+
+.card {
+    border: 1px solid white;
+    background: rgba(169, 255, 56, 0.353);
+    border-radius: 3px;
+    box-shadow: 10px 5px 5px rgb(136, 90, 21);
+    color: black;
+    width: 20%;
+    padding: 3% 5%;
+    margin: 5px 10px;
+    float: right;
+}

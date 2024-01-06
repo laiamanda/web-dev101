@@ -1,0 +1,41 @@
+body {
+    background-color: salmon;
+} 
+
+h1 {
+   font-size: 50px; 
+}
+
+#second-header {
+    color: #fff;
+}
+
+#head-four {
+    color: rgb(20, 150, 3);
+}
+
+.box-me {
+    border: 1px solid blue;
+    border-radius: 3px;
+    margin: 5%  20%;
+    padding: 2% 15%;
+    /* margin-left: 50px; */ 
+    text-align: center;
+}
+
+.card {
+    border: 1px solid black;
+    float: right;
+    padding: 1.5% 3%;
+    margin: 2px 5px;
+    width: 15%;
+}
+
+
+
+.paragraph-styles {
+    color: blue;
+    text-decoration: red wavy underline;
+    font-weight: bold;
+}
+

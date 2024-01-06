@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Fur-ever Home </title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;900&family=Roboto:wght@300;400;900&display=swap" rel="stylesheet">
+        
+        <link href="styles.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h1 id="company-name"> Fur-ever Home </h1>
+        <h2 id="title"> Search for a pet!</h2>
+        <form method="post">
+            <table>
+                <tr>
+                    <td>  Name </td>
+                    <td>
+                        <input type="text" id="age" name="name" placeholder="Name">
+                    </td>
+                </tr>
+                <tr>
+                    <td> Gender </td>
+                    <td>
+                        <label for="gender"> Male </label>
+                        <input type="radio" id="male" name="gender">
+                        <label for="gender"> Female </label>
+                        <input type="radio" id="female" name="gender">
+                    </td>
+                </tr>
+                <tr>
+                    <td> Age </td>
+                    <td>
+                        <input type="number" id="age" name="age" min="0" max="20">
+                    </td>
+                </tr>
+                <tr>
+                    <td> Species </td>
+                    <td>   
+                        <label for="species"> Dog </label>
+                        <input type="checkbox" id="dog" name="species" value="dog" >
+                        <label for="species"> Cat </label>
+                        <input type="checkbox" id="cat" name="species" value="cat" >
+                        <label for="species"> Bird </label>
+                        <input type="checkbox" id="bird" name="species" value="bird" >
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="submit" name="submit">Find me my pet </button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
