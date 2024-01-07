@@ -10,3 +10,6 @@ Your task is to create a fake resturant/cafe website using [Bootstrap4](https://
 5. Lastly, you will create your own contact page. You can use a form to reach out or using [Font Awesome](https://fontawesome.com/v4/get-started/) add their social media pages.
 
 For Example:
+![eggcellent-home](https://github.com/laiamanda/web-dev101/blob/main/bootstrap101/eggcellent-home.PNG)
+![eggcellent-menu](https://github.com/laiamanda/web-dev101/blob/main/bootstrap101/eggcellent-menu.PNG)
+![eggcellent-contact](https://github.com/laiamanda/web-dev101/blob/main/bootstrap101/eggcellent-contact.PNG)
