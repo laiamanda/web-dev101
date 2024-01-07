@@ -9,6 +9,9 @@ Your task is to create a fake resturant/cafe website using [Bootstrap4](https://
 4. You will create your own menu page of your choosing. If you want to use cards, table, list, etc.
 5. Lastly, you will create your own contact page. You can use a form to reach out or using [Font Awesome](https://fontawesome.com/v4/get-started/) add their social media pages.
 
+### Bonus Task:
+1. Try to use [Media Query](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
 For Example:
 ![eggcellent-home](https://github.com/laiamanda/web-dev101/blob/main/bootstrap101/eggcellent-home.PNG)
 ![eggcellent-menu](https://github.com/laiamanda/web-dev101/blob/main/bootstrap101/eggcellent-menu.PNG)
