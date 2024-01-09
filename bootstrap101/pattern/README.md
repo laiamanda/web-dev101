@@ -46,4 +46,4 @@ Please reach out to me when you have gotton to this part.
   * In the new ```<div>```, you will use [Grid layout] to display the cards in a row. (https://getbootstrap.com/docs/4.6/layout/grid/). I want you to try and figure out how to get all 3 in a row. Hint: the total amount the row can have is 12 and you will be using large as the first option.
   * Once you figure out the default, I want you to minimize your window of the web page. You might notice it's a bit wonky. That's because you haven't added responsive page layout with Bootstrap. To do this, in the same location where you added the grid layout, you can also insert a new class that can handle medium size.
 
-At this point, you pattern site should look similar to mine. If you're getting stuck more than 15 minute, please reach out to me so I can provide hints. If you are completed with no issues, please let me know.
+At this point, you pattern site should look similar to mine. If you're getting stuck more than 15 minute at any task, please reach out to me so I can provide hints. If you are completed with no issues, please let me know.
