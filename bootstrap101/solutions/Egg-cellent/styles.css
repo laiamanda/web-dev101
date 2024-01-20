@@ -1,0 +1,88 @@
+#bodyDescription {
+    background-color: #F2BE22;
+    font-family:"Nunito", sans-serif;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+#mainNavbar{
+	font-size: 1.2rem;
+	font-weight: 100;
+    color: #fff;
+}
+
+#mainNavbar .nav-link{
+	color:white;
+}
+
+#mainNavbar .nav-link:hover{
+	color:#F24C3D;
+}
+
+#mainNavbar .navbar-brand{
+	color: #FFF;
+}
+
+#landing-page {
+    background-image: url('./img/img-1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: left top;
+    height: 70vh;
+}
+
+#contact-us {
+    padding-top: 5%;
+    background-color: #ffffff;
+    height: 50vh;
+}
+
+.bg-yellow {
+    background-color: #F2BE22;
+}
+
+.company-name {
+    font-size: 64px;
+    font-weight: bold;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.company-sign {
+    color: #F2BE22;
+}
+
+
+.menu-options {
+    margin-bottom: 1.5%;
+}
+
+.section-title {
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+.btn-contact-us {
+    background-color: #22A699;
+}
+
+/* RESPONSIVE LAYOUT*/
+@media(max-width:600px){
+    #landing-page {
+        height: 50vh;
+    }
+
+	#headingGroup h1{
+		font-weight:100;
+		font-size:2rem;
+	}
+
+    .company-name {
+        font-size: 48px;
+        font-weight: bold;
+        margin-top: 8.5%;
+        text-align: center;
+    }
+}
