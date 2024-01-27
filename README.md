@@ -15,6 +15,6 @@ Each assignment, I will provide an example that I want you to recreate with your
 5. Bootstrap 4 (Lecture 5)
 6. Build a Web portfolio (Lecture 6)
 7. JS 101 (Lecture 7)
-8. Project: Color Guessing Game (Lecture 8)
+8. Project: To Do(Lecture 8)
 At this point, you have gained the fundamental understanding of web development.
 
