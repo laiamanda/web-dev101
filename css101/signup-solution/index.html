@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Purrfect Match </title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;900&family=Roboto:wght@300;400;900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1> Purrfect Match </h1>
+        <form>
+            <h2> Create a User Profile </h2>
+            <label for="username"> Username: </label>
+            <input type="text" name="username" placeholder="Username" required>
+            <br>
+
+            <label for="gender"> Gender: </label>
+            <label for="gender"> Male </label>
+            <input type="radio" id="male" name="gender">
+            <label for="gender"> Female </label>
+            <input type="radio" id="female" name="gender">
+            <label for="gender"> Nonbinary </label>
+            <input type="radio" id="nonbinary" name="gender">
+            <br>
+
+            <label for="birthday"> Birthday</label>
+            <input type="date" id="birthday" name="birthday">
+            <br>
+
+            <label for="lookingFor"> Looking for: </label>
+            <label> Soulmate: </label>
+            <input type="checkbox" id="soulmate" name="lookingFor" value="Soulmate">
+            <label> Playdate: </label>
+            <input type="checkbox" id="playdate" name="lookingFor" value="PlayDate">
+            <label> Casual: </label>
+            <input type="checkbox" id="playdate" name="lookingFor" value="Casual">
+
+            <br>
+            <button class="create-btn" type="submit"> Create </button>
+        </form>
+    </body>
+</html>
