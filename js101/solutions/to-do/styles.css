@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #EECDA3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EF629F, #EECDA3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EF629F, #EECDA3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+button {
+    background-color: #756AB6;
+    border: none;
+    border-radius: 15px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    height: 15%;
+    padding: .5% 1.5%;
+    width: 10%;
+}
+
+button:hover {
+    background-color: #E0AED0;
+    color: #000;
+    transition: 2s;
+}
+
+h1 {
+    color: #fff;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    padding: 1.5% 2%;
+    width: 50%;
+}
+
+input:hover {
+    background-color: #FFE5E5;
+    border: 1px solid #E0AED0;
+}
+
+li { 
+    border-bottom: 1px solid #756AB6;
+    font-size: 16px;
+    list-style-type: none;
+    margin: 1.5% 3%;
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+    margin: 12% 30%;
+}
